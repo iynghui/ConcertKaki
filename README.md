@@ -21,16 +21,6 @@ ConcertKaki combines social matching and verified ticket resale into a single ec
 - Ticket/Seller Verification mechanism
   
 ---
-# Scenario Video
-[![Scenario Video](https://img.youtube.com/vi/IBj5rtWH8Tw/0.jpg)](https://youtu.be/IBj5rtWH8Tw)
-
-# Pitch Video
-[![Pitch Video](https://img.youtube.com/vi/oaZHsIEukEo/0.jpg)](https://youtu.be/oaZHsIEukEo)
-
-# Maze Video
-[![Maze Video](https://img.youtube.com/vi/5FmFukWaqSI/0.jpg)](https://youtu.be/5FmFukWaqSI)
-
----
 
 # Navigation Flow
 
@@ -91,5 +81,16 @@ Home Page
 ![Experiment Design](images/experiment-design.png)
 
 --
+
+# Scenario Video
+[![Scenario Video](https://img.youtube.com/vi/IBj5rtWH8Tw/0.jpg)](https://youtu.be/IBj5rtWH8Tw)
+
+# Pitch Video
+[![Pitch Video](https://img.youtube.com/vi/oaZHsIEukEo/0.jpg)](https://youtu.be/oaZHsIEukEo)
+
+# Maze Video
+[![Maze Video](https://img.youtube.com/vi/5FmFukWaqSI/0.jpg)](https://youtu.be/5FmFukWaqSI)
+
+---
 
 
