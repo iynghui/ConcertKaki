@@ -87,4 +87,9 @@ Home Page
 
 ---
 
+## A/B Testing
+![Experiment Design](images/experiment-design.png)
+
+--
+
 
